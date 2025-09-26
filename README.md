@@ -20,9 +20,4 @@ RuchiHub is a RESTful API built using **Spring Boot** and **MySQL**, providing a
 
 ---
 
-## ⚡ Installation & Setup  
 
-### **1. Clone the Repository**  
-```sh
-git clone https://github.com/Yashwanth-b-k/Ruchi-Hub.git
-cd ruchihub
